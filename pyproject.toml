@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fastapidemo"
+version = "0.1.0"
+description = ""
+authors = ["Jaffer-at-522393744771 <jaffer@kbxdigital.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
